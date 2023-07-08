@@ -28,7 +28,7 @@ def item_range_id(start, end, amount=1):
         
 if __name__ == "__main__":
     focus()
-    start = input("please input the start id: ")
-    end = input("please enter the end id: ")
-    amount = input("please enter the item amount: ")
+    start = int(input("please input the start id: "))
+    end = int(input("please enter the end id: "))
+    amount = int(input("please enter the item amount: "))
     item_range_id(start, end, amount)
