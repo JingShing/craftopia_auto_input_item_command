@@ -13,3 +13,6 @@ After get these mods you will get a item id list in txt in your game file folder
 And if you also want enchant id you would need to get this mod: [EnchantMenu](https://steamcommunity.com/sharedfiles/filedetails/?id=2527137938)
 
 It will also give you enchant id list.
+
+# setting
+In my script it will need a image to start which called "1.png". That is a random icon you need to get by yourself. In my case I choose the map button so my script can find this button and click it to focus on the window.
