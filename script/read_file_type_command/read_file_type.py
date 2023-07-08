@@ -19,6 +19,16 @@ def focus():
         pyautogui.moveTo(x, y)
         pyautogui.click()
 
+def read_file_id_and_type(file_name):
+    with open(file_name, 'r') as file:
+        lines = file.readlines()
+        print(lines)
+        for line in lines:
+            command = line.replace("\n", "")
+            print(command)
+            type_out_text(command)
+            time.sleep(wait_time*2)
+
 def read_file_and_type(file_name):
     with open(file_name, 'r') as file:
         lines = file.readlines()
