@@ -27,8 +27,8 @@ def item_range_id(start, end, amount=1):
         time.sleep(wait_time*2)
         
 if __name__ == "__main__":
-    focus()
     start = int(input("please input the start id: "))
     end = int(input("please enter the end id: "))
     amount = int(input("please enter the item amount: "))
+    focus()
     item_range_id(start, end, amount)
