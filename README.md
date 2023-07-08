@@ -1,6 +1,11 @@
 # craftopia_auto_input_item_command
 a simple script help you enter the item command in text box automatically.
 
+# Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=RyKaHKIUE1g" target="_blank">
+ <img src="http://img.youtube.com/vi/RyKaHKIUE1g/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
 # Usage
 This script is helpful for the cheaters or researchers. This script can automatically help you to enter the command to summon items.
 
