@@ -21,4 +21,6 @@ And if you also want enchant id you would need to get this mod: [EnchantMenu](ht
 It will also give you enchant id list.
 
 # setting
+## working on resolution in 1440X810
+
 In my script it will need a image to start which called "1.png". That is a random icon you need to get by yourself. In my case I choose the map button so my script can find this button and click it to focus on the window.
